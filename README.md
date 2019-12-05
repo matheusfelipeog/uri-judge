@@ -11,6 +11,6 @@ O repositório contém resoluções em Python dos problemas propostos na platafo
 
 1. [**Iniciante**](./categorias/iniciante) - _Problemas básicos para quem está iniciando na programação..._
 
-2. [**Strings**](./categorias/strings) - _Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings..._
+3. [**Strings**](./categorias/strings) - _Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings..._
 
 >_Em breve as proxímas categorias estarão disponíveis._
