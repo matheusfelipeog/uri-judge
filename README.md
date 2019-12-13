@@ -9,10 +9,10 @@
 ## 📁O Repositório
 O repositório contém resoluções em Python dos problemas propostos na plataforma da URI dividido em suas [categorias](https://www.urionlinejudge.com.br/judge/pt/categories):
 
-1. [**Iniciante**](./categorias/iniciante) - _Problemas básicos para quem está iniciando na programação..._
+1. [**Iniciante**](./categorias/iniciante) - _Problemas básicos para quem está iniciando na programação...  ( 119 Desafios resolvidos )_
 
-2. [**Ad-Hoc**](./categorias/ad-hoc) - _Problemas de simulação, datas e ad-hoc no geral..._
+2. [**Ad-Hoc**](./categorias/ad-hoc) - _Problemas de simulação, datas e ad-hoc no geral... ( 2 Desafios resolvidos )_
 
-3. [**Strings**](./categorias/strings) - _Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings..._
+3. [**Strings**](./categorias/strings) - _Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings... ( 3 Desafios resolvidos )_
 
->_Em breve as proxímas categorias estarão disponíveis._
+>_Em breve as proxímas categorias e novas resoluções estarão disponíveis._
