@@ -11,7 +11,7 @@ O repositório contém resoluções em Python dos problemas propostos na platafo
 
 1. [**Iniciante**](./categorias/iniciante) - _Problemas básicos para quem está iniciando na programação...  ( 119 Desafios resolvidos )_
 
-2. [**Ad-Hoc**](./categorias/ad-hoc) - _Problemas de simulação, datas e ad-hoc no geral... ( 2 Desafios resolvidos )_
+2. [**Ad-Hoc**](./categorias/ad-hoc) - _Problemas de simulação, datas e ad-hoc no geral... ( 3 Desafios resolvidos )_
 
 3. [**Strings**](./categorias/strings) - _Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings... ( 3 Desafios resolvidos )_
 
