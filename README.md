@@ -13,6 +13,6 @@ O repositório contém resoluções em Python dos problemas propostos na platafo
 
 2. [**Ad-Hoc**](./categorias/ad-hoc) - _Problemas de simulação, datas e ad-hoc no geral... ( 5 Desafios resolvidos )_
 
-3. [**Strings**](./categorias/strings) - _Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings... ( 4 Desafios resolvidos )_
+3. [**Strings**](./categorias/strings) - _Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings... ( 5 Desafios resolvidos )_
 
 >_Em breve as proxímas categorias e novas resoluções estarão disponíveis._
